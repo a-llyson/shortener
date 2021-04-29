@@ -2,5 +2,5 @@ POST http://localhost:5000/api/url/shorten
 Content-Type: application/json
 
 {
-    "longUrl": "https://getbootstrap.com/docs/5.0/getting-started/download/"
+  "longUrl": "https://getbootstrap.com/docs/5.0/getting-started/download/"
 }
