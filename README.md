@@ -1,2 +1,1 @@
-# shortener
-Shortens URLs
+# url shortener microservice
